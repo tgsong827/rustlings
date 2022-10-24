@@ -6,6 +6,9 @@
 
 struct ColorClassicStruct {
     // TODO: Something goes here
+    red: u32,
+    green: u32,
+    blue: u32,
 }
 
 struct ColorTupleStruct(/* TODO: Something goes here */);
